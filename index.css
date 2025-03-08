@@ -44,12 +44,7 @@ button {
 #save-btn:hover{
     color:rgb(17, 248, 86)
 }
-#save-btn:hover{
-  background-image:image() ;
-}
-#save-btn:hover{
-    background-color: aqua;
-}
+
 #save-btn {
     background: #ff0000;
   

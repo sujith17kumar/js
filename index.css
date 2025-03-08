@@ -34,14 +34,25 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
+    
 }
 
 #increment-btn {
     background: #2C2891;
-}
 
+}
+#save-btn:hover{
+    color:rgb(17, 248, 86)
+}
+#save-btn:hover{
+  background-image:image() ;
+}
+#save-btn:hover{
+    background-color: aqua;
+}
 #save-btn {
-    background: #1C7947;
+    background: #ff0000;
+  
 }
 
 #save-el {

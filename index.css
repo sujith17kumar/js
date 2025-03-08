@@ -42,7 +42,8 @@ button {
 
 }
 #save-btn:hover{
-    color:rgb(17, 248, 86)
+    color:rgb(17, 248, 86);
+    background-color: chocolate;
 }
 
 #save-btn {
